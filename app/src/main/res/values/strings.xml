@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TourGuide for İstanbul</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the historical places [CHAR LIMIT=20] -->
+    <string name="category_historical">History</string>
+
+    <!-- Category name for the restaurants[CHAR LIMIT=20] -->
+    <string name="category_restaurants">Lunch</string>
+
+    <!-- Category name for the nightlife [CHAR LIMIT=20] -->
+    <string name="category_nightlife">Night Life!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings of 4 Lists -->
+    <string name="location_text_view">place</string>
+    <string name="event">event</string>
+    <string name="location1">Jazz Festival</string>
+    <string name="event1">Zorlu PSM</string>
+    <string name="location2">Semaver Kumpanya, Silivrikapı</string>
+    <string name="event2">Cimri Theatre</string>
+    <string name="location3">Maçka Parkı</string>
+    <string name="event3">Reading Day</string>
+    <string name="location4">Bostancı</string>
+    <string name="event4">İdil Biret Concert</string>
+    <string name="location5">Galata, Beyoğlu</string>
+    <string name="event5">Dance Festival</string>
+    <string name="location6">Caddebostan</string>
+    <string name="event6">Running Time</string>
+    <string name="location7">If, Beşiktaş</string>
+    <string name="event7">Athena Concert</string>
+    <string name="hlocation1">Fatih</string>
+    <string name="his1">Sultanahmet Mosque</string>
+    <string name="hlocation2">Fatih</string>
+    <string name="his2">Hagia Sophia</string>
+    <string name="hlocation3">Galata, Beyoğlu</string>
+    <string name="his3">Galata Tower</string>
+    <string name="hlocation4">Beşiktaş</string>
+    <string name="his4">Dolmabahçe Palace</string>
+    <string name="hlocation5">Üsküdar</string>
+    <string name="his5">Kız Kulesi</string>
+    <string name="rlocation1">Istiklal Street</string>
+    <string name="rlocation2">Bebek</string>
+    <string name="rlocation3">Arnavutköy</string>
+    <string name="rlocation4">Levent</string>
+    <string name="rlocation5">Karaköy</string>
+    <string name="res1">Divan</string>
+    <string name="res2">Baylan</string>
+    <string name="res3">Adem Baba</string>
+    <string name="res4">Baazen Tantuni</string>
+    <string name="res5">Akın Balık</string>
+    <string name="nightlocation1">Asmalı Mescit, Istiklal Street</string>
+    <string name="nightlocation2">Arnavutköy</string>
+    <string name="nightlocation3">Bebek</string>
+    <string name="nightlocation4">Nişantaşı</string>
+    <string name="nightlocation5">Bomonti Ada</string>
+    <string name="night1">Balkon</string>
+    <string name="night2">Any</string>
+    <string name="night3">Lucca</string>
+    <string name="night4">Must</string>
+    <string name="night5">The Populist</string>
+
+</resources>
